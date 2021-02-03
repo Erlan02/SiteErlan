@@ -1,0 +1,151 @@
+body.page2 {
+  background-image: url(back2.jpg);
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+}
+
+#Skills {
+  position: relative;
+  left: 12%;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#information_ab_me {
+  font-style: italic;
+  position: relative;
+  left: 2%;
+  width: 90%;
+  right: 100px;
+}
+
+hr {
+  background-color: black;
+  height: 1px;
+  border: none
+}
+
+table.tab_page2 {
+  border: 4px double;
+  padding: 0.5%
+}
+
+tr {
+  border: 4px double
+}
+
+td {
+  border: 4px double
+}
+
+a.button5 {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+}
+
+a.button5:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.button5:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.button5:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
+
+a.button6 {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+}
+
+a.button6:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.button6:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.button6:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
+
+a.button7 {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+}
+
+a.button7:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.button7:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.button7:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
+
+html {
+  overflow-x: hidden;
+}

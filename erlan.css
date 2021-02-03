@@ -1,0 +1,271 @@
+body.page1 {
+  background-image: url(https://вебджем.рф/800/600/https/pt-blog.ru/wp-content/uploads/2018/05/8.jpg);
+}
+
+html {
+  overflow-x: hidden;
+}
+
+div.div_page1 {
+  background-color: red;
+  border: 2px solid;
+  height: 200px;
+  width: 2000 top: -23px;
+
+
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+}
+
+h2 {
+  position: relative;
+  text-align: center;
+}
+
+h3 {
+  position: relative;
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+#html {
+  position: relative;
+  left: 2%;
+  width: 97%;
+}
+
+#angularjs {
+  position: relative;
+  left: 2%;
+  width: 97%;
+}
+
+#JavaScript {
+  position: relative;
+  left: 2%;
+  width: 97%;
+}
+
+#ccss {
+  position: relative;
+  left: 2%;
+  width: 97%;
+}
+
+hr {
+  background-color: black;
+  height: 1px;
+  border: none
+}
+
+span.span0 {
+  color: black;
+font-size: 200%;
+font-family: serif;
+position: relative;
+top: 5px;
+}
+
+span.span1 {
+  color: brown;
+  font-size: 200%;
+  font-family: serif;
+  position: relative;
+  top: 5px;
+}
+
+span.span2 {
+  color: brown;
+  font-size: 200%;
+  font-family: serif;
+  position: relative;
+  top: 5px;
+}
+
+span.span3 {
+  color: brown;
+  font-size: 200%;
+  font-family: serif;
+  position: relative;
+  top: 5px;
+}
+
+span.span4 {
+  color: brown;
+  font-size: 200%;
+  font-family: serif;
+  position: relative;
+  top: 5px;
+}
+
+tr {
+  border: 4px double
+}
+
+td {
+  border: 4px double
+}
+
+table.tab_page1 {
+  border: 1px;
+  width: 1290px;
+  background-color: red
+}
+
+a.inform {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid;
+  border-image: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
+  border-image-slice: 1;
+}
+
+a.inform:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.inform:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.inform:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
+
+a.js {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid;
+  border-image: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
+  border-image-slice: 1;
+}
+
+a.js:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.js:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.js:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
+
+a.angular {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid;
+  border-image: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
+  border-image-slice: 1;
+}
+
+a.angular:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.angular:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.angular:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
+
+a.css {
+  display: inline-block;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  user-select: none;
+  padding: 0 5px;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid;
+  border-image: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
+  border-image-slice: 1;
+}
+
+a.css:before {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  padding-right: 5px;
+}
+
+a.css:hover {
+  background: linear-gradient(#ececeb, #eaeaea);
+  box-shadow:
+    inset rgba(0, 0, 0, .5) 0 -1px 1px,
+    inset rgba(0, 0, 0, .2) 0 1px,
+    inset #fff 0 2px,
+    rgba(0, 0, 0, .2) 0 1px 1px;
+}
+
+a.css:active {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .1));
+  box-shadow:
+    inset rgba(0, 0, 0, .8) 0 1px 2px,
+    inset rgba(0, 0, 0, .05) 0 -1px 0,
+    #fff 0 1px 1px;
+}
